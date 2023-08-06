@@ -1,6 +1,7 @@
 # Animated-Personal_Portfolio
 
-![image](https://github.com/teheseenShaikh26/Animated-Personal_Portfolio/assets/78405778/d209b7f3-c62e-4a42-b319-0e766202294c)
+![image](https://github.com/teheseenShaikh26/Animated-Personal_Portfolio/assets/78405778/37afe375-10ec-421a-b36a-ca2bc295e786)
+
 ![image](https://github.com/teheseenShaikh26/Animated-Personal_Portfolio/assets/78405778/d372adaf-a991-43ad-bf61-18ff6dec7882)
 
 ![image](https://github.com/teheseenShaikh26/Animated-Personal_Portfolio/assets/78405778/1c681a69-2c66-4e7c-aa4f-f8ac4881995d)
