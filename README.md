@@ -1,4 +1,7 @@
 # Animated-Personal_Portfolio
+### Developed a Single page responsive website of portfolio.
+### Tech Stack used: HTML, CSS, JavaScript.
+
 
 ![image](https://github.com/teheseenShaikh26/Animated-Personal_Portfolio/assets/78405778/37afe375-10ec-421a-b36a-ca2bc295e786)
 
